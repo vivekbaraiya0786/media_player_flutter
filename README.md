@@ -45,7 +45,7 @@ Project Evaluation:
 
 
 
-https://github.com/vivekbaraiya0786/media_player_flutter/assets/126376629/653d44bc-53ff-4a28-843c-a38401b05ba6
+
 
 
 ## Getting Started
